@@ -13,8 +13,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Academic Background
 
 - **Sep 2019 - Aug 2024：** Washington University in St. Louis (PhD)
-- **Sep 2019 - May 2023:** Washington University in St. Louis (MS)
-- **Sep 2015 - Jun 2019:** Beihang University (BEng)
+- **Sep 2019 - May 2023:**  Washington University in St. Louis (MS)
+- **Sep 2015 - Jun 2019:**  Beihang University (BEng)
 
 <br>
 
