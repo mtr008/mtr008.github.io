@@ -6,7 +6,7 @@ title: Publications
 
 > Lastest Update: Feb 2024&nbsp;
 
-## Conference Paper
+## Conference Papers
 
 - [Invited Paper: Learned In-Sensor Visual Computing: From Compression to Eventification](https://horizon-lab.org/pubs/iccad23.pdf)<br>Yu Feng, **Tianrui Ma**, Adith Boloor, Yuhao Zhu, Xuan Zhang<br>IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023.
 
@@ -19,7 +19,7 @@ title: Publications
 - [An Analog-Memoryless Near Sensor Computing Architecture for Always-On Intelligent Perception Applications](https://ieeexplore.ieee.org/abstract/document/9012906)<br>**Tianrui Ma**, Kaige Jia, Xin Zhu, Fei Qiao, Qi Wei, Huichan Zhao, Xinjun Liu, Huazhong Yang<br>IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2019.
 
 
-## Journal Paper
+## Journal Papers
 
 - Coming soon!
 
@@ -31,11 +31,8 @@ title: Publications
 
 - LeCA Image Sensor, in TSMC 65nm GP<br>
 
-<img src="images/leca.png" width="200">
+![image info](images/leca.png)
 
   <br>
 
 
-
-
-  <br>

@@ -2,12 +2,13 @@
 layout: page
 ---
 
-# About Me
-
 Here is **Tianrui Ma**.
 
 I am a fifth-year PhD candidate in Electrical Engineering at Washington University in St. Louis, advised by [Dr. Xuan 'Silvia' Zhang](https://coe.northeastern.edu/people/zhang-xuan/).
 
+<br>
+
+---
 
 ## Academic Background
 
@@ -19,6 +20,7 @@ I am a fifth-year PhD candidate in Electrical Engineering at Washington Universi
 
 - **Jul 2023 - Oct 2023** [OmniVision Technologies](https://www.ovt.com/) (analog circuit design, research intern)
 
+<br>
 
 ---
 
@@ -34,5 +36,5 @@ My current research focuses on systematic design and architectural optimization 
 <br>
 
 
-<br>
+
 
