@@ -39,6 +39,7 @@ My current research focuses on systematic design and architectural optimization 
 
 ## News and Updates
 
+- **Sep 2023：**One papers was accepted to ICCAD 2023.
 - **Mar 2023：**Two papers were accepted to ISCA 2023.
 - **May 2022：**One paper was accepted to ISLPED 2022 and won the **Best Paper Award**.
 
