@@ -14,7 +14,7 @@ title: Publications
 
 - [LeCA: In-Sensor Learned Compressive Acquisition for Efficient Machine Vision on the Edge](https://dl.acm.org/doi/10.1145/3579371.3589089)<br>**Tianrui Ma\***, Adith J Boloor\*, Xiangxing Yang, Weidong Cao, Patrick Williams, Nan Sun, Ayan Chakrabarti, Xuan Zhang (\*equal contribution)<br>ACM/IEEE 50th Annual International Symposium on Computer Architecture (ISCA), 2023.
 
-- [HOGEye: Neural Approximation of HOG Feature Extraction in RRAM-Based 3D-Stacked Image Sensors](https://dl.acm.org/doi/10.1145/3531437.3539706)<br>**Tianrui Ma**, Weidong Cao, Fei Qiao, Ayan Chakrabarti, Xuan Zhang<br>ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2022.
+- [HOGEye: Neural Approximation of HOG Feature Extraction in RRAM-Based 3D-Stacked Image Sensors](https://dl.acm.org/doi/10.1145/3531437.3539706)<br>**Tianrui Ma**, Weidong Cao, Fei Qiao, Ayan Chakrabarti, Xuan Zhang<br>ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2022. **Best Paper Award**
 
 - [An Analog-Memoryless Near Sensor Computing Architecture for Always-On Intelligent Perception Applications](https://ieeexplore.ieee.org/abstract/document/9012906)<br>**Tianrui Ma**, Kaige Jia, Xin Zhu, Fei Qiao, Qi Wei, Huichan Zhao, Xinjun Liu, Huazhong Yang<br>IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2019.
 
@@ -32,7 +32,7 @@ title: Publications
 
 - LeCA Image Sensor, in TSMC 65nm GP<br>
 
-<img src="leca.png" class="floatpic" width="360" height="480">
+<img src="images/leca.png" class="floatpic" width="360" height="480">
 
   <br>
 
