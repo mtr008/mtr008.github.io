@@ -2,16 +2,16 @@ title: Tianrui Ma
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://mtr008.github.io/
+url: https://mtr008.github.io
 
 # Owner/author information
 owner:
   name: Tianrui Ma
-  avatar: tom.png
+  avatar: DSC_7544.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: hanlin.cai@ieee.org
   cv: https://drive.google.com/file/d/1kXT_PiTO5K0dPuH8n3lPpZSp339tC2gN/view?usp=sharing
-  cv: https://drive.google.com/file/d/1-F3IepfSjxTEwYbFAYky74PZaj-ygGWZ/view?usp=sharing
+  # cv: https://drive.google.com/file/d/1-F3IepfSjxTEwYbFAYky74PZaj-ygGWZ/view?usp=sharing
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # github: GuangLun2000
   linkedin: tianrui-ma-4a3410179

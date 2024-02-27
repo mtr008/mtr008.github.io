@@ -4,8 +4,6 @@ layout: page
 
 # About Me
 
-<img src="https://mtr008.github.io//tom.png" class="floatpic" width="360" height="480">
-
 Here is **Tianrui Ma (马天瑞)**.
 
 I am a fifth-year PhD candidate in Electrical Engineering at Washington University in St. Louis, advised by [Dr. Xuan 'Silvia' Zhang](https://coe.northeastern.edu/people/zhang-xuan/). I also held a research intern position in the department of analog circuit design at [OmniVision Technologies](https://www.ovt.com/) in 2023.
