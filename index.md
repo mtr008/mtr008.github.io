@@ -8,7 +8,7 @@ layout: page
 
 Here is **Tianrui Ma (马天瑞)**.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**. I will be attending AAAI-24 in Vancouver, please feel free to chat with me.
+I am a fifth-year PhD candidate in Electrical Engineering at Washington University in St. Louis, advised by [Dr. Xuan 'Silvia' Zhang](https://coe.northeastern.edu/people/zhang-xuan/). I also held a research intern position in the department of analog circuit design at [OmniVision Technologies](https://www.ovt.com/) in 2023.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *tianrui[dot]ma[at]wustl[dot]edu*
 
