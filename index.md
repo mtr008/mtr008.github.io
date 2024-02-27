@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Here is **Tianrui Ma**.
+Welcome to **Tianrui Ma**'s homepage!
 
 I am a fifth-year PhD candidate in Electrical Engineering at Washington University in St. Louis (WashU), advised by [Dr. Xuan 'Silvia' Zhang](https://coe.northeastern.edu/people/zhang-xuan/). Our lab is recently moved to Northeastern University.
 
