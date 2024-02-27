@@ -19,7 +19,6 @@ I am a fifth-year PhD candidate in Electrical Engineering at Washington Universi
 
 - **Jul 2023 - Oct 2023** [OmniVision Technologies](https://www.ovt.com/) (analog circuit design, research intern)
 
-<br>
 
 ---
 
