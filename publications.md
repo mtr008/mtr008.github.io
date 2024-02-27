@@ -18,7 +18,6 @@ title: Publications
 
 - [An Analog-Memoryless Near Sensor Computing Architecture for Always-On Intelligent Perception Applications](https://ieeexplore.ieee.org/abstract/document/9012906)<br>**Tianrui Ma**, Kaige Jia, Xin Zhu, Fei Qiao, Qi Wei, Huichan Zhao, Xinjun Liu, Huazhong Yang<br>IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2019.
 
-<br>
 
 ## Journal Paper
 
@@ -32,7 +31,7 @@ title: Publications
 
 - LeCA Image Sensor, in TSMC 65nm GP<br>
 
-![image info](./images/leca.png =200x)
+<img src="images/leca.png" width="200">
 
   <br>
 
