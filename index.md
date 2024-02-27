@@ -14,8 +14,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
 - **Sep 2019 - Aug 2024：** Washington University in St. Louis (PhD)
 - **Sep 2019 - May 2023:** Washington University in St. Louis (MS)
 - **Sep 2015 - Jun 2019:** Beihang University (BEng)
