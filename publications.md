@@ -6,13 +6,13 @@ title: Publications
 
 > Lastest Update: 27th Feb 2024&nbsp;
 
-## Conference Paper
+## Conference Paper<br>\*: equal contribution
 
 - [Invited Paper: Learned In-Sensor Visual Computing: From Compression to Eventification](https://horizon-lab.org/pubs/iccad23.pdf)<br>Yu Feng, **Tianrui Ma**, Adith Boloor, Yuhao Zhu, Xuan Zhang<br>IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023.
 
-- [CamJ: Enabling System-Level Energy Modeling and Architectural Exploration for In-Sensor Visual Computing](https://dl.acm.org/doi/abs/10.1145/3579371.3589064)<br>**Tianrui Ma**, Yu Feng*, Xuan Zhang, Yuhao Zhu<br>ACM/IEEE 50th Annual International Symposium on Computer Architecture (ISCA), 2023.
+- [CamJ: Enabling System-Level Energy Modeling and Architectural Exploration for In-Sensor Visual Computing](https://dl.acm.org/doi/abs/10.1145/3579371.3589064)<br>**Tianrui Ma\***, Yu Feng\*, Xuan Zhang, Yuhao Zhu<br>ACM/IEEE 50th Annual International Symposium on Computer Architecture (ISCA), 2023.
 
-- [LeCA: In-Sensor Learned Compressive Acquisition for Efficient Machine Vision on the Edge](https://dl.acm.org/doi/10.1145/3579371.3589089)<br>**Tianrui Ma**, Adith J Boloor, Xiangxing Yang, Weidong Cao, Patrick Williams, Nan Sun, Ayan Chakrabarti, Xuan Zhang<br>ACM/IEEE 50th Annual International Symposium on Computer Architecture (ISCA), 2023.
+- [LeCA: In-Sensor Learned Compressive Acquisition for Efficient Machine Vision on the Edge](https://dl.acm.org/doi/10.1145/3579371.3589089)<br>**Tianrui Ma\***, Adith J Boloor\*, Xiangxing Yang, Weidong Cao, Patrick Williams, Nan Sun, Ayan Chakrabarti, Xuan Zhang<br>ACM/IEEE 50th Annual International Symposium on Computer Architecture (ISCA), 2023.
 
 - [HOGEye: Neural Approximation of HOG Feature Extraction in RRAM-Based 3D-Stacked Image Sensors](https://dl.acm.org/doi/10.1145/3531437.3539706)<br>**Tianrui Ma**, Weidong Cao, Fei Qiao, Ayan Chakrabarti, Xuan Zhang<br>ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2022.
 
