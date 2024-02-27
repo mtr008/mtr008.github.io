@@ -12,12 +12,15 @@ title: Hobbies
 <img src="/images/swimming.JPG">
 <img src="/images/surfing1.JPG">
 </div>
-<br>Personal 5x5 records (actively improving!):<br> Squat - 255lbs, Deadlift - 245lbs, Bench Press - 175lbs.
+<br>Personal 5x5 records (actively improving!):<br> Squat - 255lbs, Deadlift - 245lbs, Bench Press - 175lbs
 
 
 ## Insurgency Gamer
 
 ## Counter-Strike Shotgun Lover
 
-
 ## Donut Connoisseur
+
+## Kansas City Chiefs New Fans
+
+Go Chiefs!!
