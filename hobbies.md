@@ -21,6 +21,6 @@ title: Hobbies
 
 ## Donut Connoisseur
 
-## Kansas City Chiefs New Fans
+## Kansas City Chiefs New Admirer
 
 Go Chiefs!!
