@@ -16,6 +16,8 @@ title: Hobbies
 <br>Personal 5x5 records (actively improving!):<br> Squat - 255lbs, Deadlift - 245lbs, Bench Press - 175lbs.
 
 
+## Insurgency Gamer
+
 ## Counter-Strike Shotgun Lover
 
 
