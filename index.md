@@ -26,12 +26,14 @@ I am a fifth-year PhD candidate in Electrical Engineering at Washington Universi
 
 ## Research Interests
 
-- CMOS Image Sensor
-- Embodied AI
+My research focuses on systematic design and architectural optimization of CMOS image sensor-based vision systems. It covers:
+
+- Mixed-signal VLSI
 - Electronic Design Automation
 - Computer Architecture
+- Computer Vision Algorithms
 
-My current research focuses on systematic design and architectural optimization of CMOS image sensor-based vision systems.
+
 
 <br>
 
