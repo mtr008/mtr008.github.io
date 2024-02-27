@@ -28,11 +28,11 @@ title: Publications
 
 ---
 
-## Working Manuscript
+## Tapeout Gallery
 
-- XXX<br>
+- LeCA Image Sensor, in TSMC 65nm GP<br>
 
-- XXX<br>
+<img src="leca.png" class="floatpic" width="360" height="480">
 
   <br>
 

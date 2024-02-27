@@ -13,7 +13,7 @@ I am a fifth-year PhD candidate in Electrical Engineering at Washington Universi
 
 - **Sep 2019 - Aug 2024** Washington University in St. Louis (PhD)
 - **Sep 2019 - May 2023** Washington University in St. Louis (MS)
-- **Sep 2015 - Jun 2019** Beihang University (BEng, Hons)
+- **Sep 2015 - Jun 2019** Beihang University (BEng, [Hons](https://hc.buaa.edu.cn/))
 
 <br>
 
