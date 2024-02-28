@@ -11,8 +11,6 @@ Personal 5x5 records (actively improving!):<br> Squat - 255lbs, Deadlift - 245lb
 
 ## Insurgency Gamer
 
-## Counter-Strike Shotgun Lover
-
 ## Donut Connoisseur
 
 ## Kansas City Chiefs Sponsor :)
