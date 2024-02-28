@@ -12,9 +12,9 @@ I am a fifth-year PhD candidate in Electrical Engineering at Washington Universi
 
 ## Academic Background
 
-- **Sep 2019 - Aug 2024**   Washington University in St. Louis (PhD)
-- **Sep 2019 - May 2023**   Washington University in St. Louis (MS)
-- **Sep 2015 - Jun 2019**    Beihang University (BEng, [Hons](https://hc.buaa.edu.cn/))
+- **Sep 2019 - Aug 2024**&nbsp;   Washington University in St. Louis (PhD)
+- **Sep 2019 - May 2023**&nbsp;   Washington University in St. Louis (MS)
+- **Sep 2015 - Jun 2019**&nbsp;   Beihang University (BEng, [Hons](https://hc.buaa.edu.cn/))
 
 ## Industrial Background
 
@@ -26,9 +26,9 @@ I am a fifth-year PhD candidate in Electrical Engineering at Washington Universi
 
 ## Research Interests
 
-My research focuses on systematic design and architectural optimization of CMOS image sensor-based vision systems. It covers:
+My research focuses on systematic design and architectural optimization of CMOS image sensor-based vision systems. It covers multiple topics in:
 
-- Mixed-signal VLSI
+- Mixed-Signal VLSI
 - Electronic Design Automation
 - Computer Architecture
 - Computer Vision Algorithms
