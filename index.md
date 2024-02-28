@@ -12,9 +12,9 @@ I am a fifth-year PhD candidate in Electrical Engineering at Washington Universi
 
 ## Academic Background
 
-- **Sep 2019 - Aug 2024**&nbsp;   Washington University in St. Louis (PhD)
-- **Sep 2019 - May 2023**&nbsp;   Washington University in St. Louis (MS)
-- **Sep 2015 - Jun 2019**&nbsp;   Beihang University (BEng, [Hons](https://hc.buaa.edu.cn/))
+- **Sep 2019 - Aug 2024**&nbsp;&nbsp;&nbsp;   Washington University in St. Louis (PhD)
+- **Sep 2019 - May 2023**&nbsp;&nbsp;&nbsp;   Washington University in St. Louis (MS)
+- **Sep 2015 - Jun 2019**&nbsp;&nbsp;&nbsp;&nbsp;   Beihang University (BEng, [Hons](https://hc.buaa.edu.cn/))
 
 ## Industrial Background
 
