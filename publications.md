@@ -31,7 +31,7 @@ title: Publications
 
 - LeCA Image Sensor, in TSMC 65nm GP<br>
   
-  ![image info](images/leca.png){ width=50% }
+  ![leca](images/leca.png)
 
   <br>
 
