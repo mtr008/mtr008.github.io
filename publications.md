@@ -30,8 +30,10 @@ title: Publications
 ## Tapeout Gallery
 
 - LeCA Image Sensor, in TSMC 65nm GP<br>
+  
+  <img src="images/leca.png" width="360" height="480">
 
-![image info](images/leca.png)
+[//]: # ![image info](images/leca.png)
 
   <br>
 
