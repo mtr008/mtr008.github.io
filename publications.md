@@ -8,7 +8,7 @@ title: Publications
 
 ## Conference Papers
 
-- [BlissCam: Boosting Eye Tracking Efficiency with Learned In-Sensor Sparse Sampling]<br>Yu Feng\*, **Tianrui Ma\***, Yuhao Zhu, Xuan Zhang (\*equal contribution)<br>ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA), 2024.
+- BlissCam: Boosting Eye Tracking Efficiency with Learned In-Sensor Sparse Sampling<br>Yu Feng\*, **Tianrui Ma\***, Yuhao Zhu, Xuan Zhang (\*equal contribution)<br>ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA), 2024.
 
 - [Invited Paper: Learned In-Sensor Visual Computing: From Compression to Eventification](https://horizon-lab.org/pubs/iccad23.pdf)<br>Yu Feng, **Tianrui Ma**, Adith Boloor, Yuhao Zhu, Xuan Zhang<br>IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023.
 
