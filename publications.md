@@ -7,6 +7,7 @@ title: Publications
 > Lastest Update: Mar 2024&nbsp;
 
 ## Conference Papers
+(\*equal contribution)
 
 - [BlissCam: Boosting Eye Tracking Efficiency with Learned In-Sensor Sparse Sampling](https://horizon-lab.org/pubs/isca24-blisscam.pdf)<br>Yu Feng\*, **Tianrui Ma\***, Yuhao Zhu, Xuan Zhang (\*equal contribution)<br>ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA), 2024.
 
