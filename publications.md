@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: Mar 2024&nbsp;
+
 
 ## Conference Papers
 
@@ -25,7 +25,7 @@ title: Publications
 
 ## Journal Papers
 
-- [RoSE-Opt: Robust and Efficient Analog Circuit Parameter Optimization with Knowledge-infused Reinforcement Learning](?)<br>Weidong Cao, Jian Gao, **Tianrui Ma**, Rui Ma, Mouhacine Benosman, Xuan Zhang<br>IEEE Transactions On Computer-Aided Design of Integrated Circuits & Systems (TCAD), 2024.
+- [RoSE-Opt: Robust and Efficient Analog Circuit Parameter Optimization with Knowledge-infused Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10614385)<br>Weidong Cao, Jian Gao, **Tianrui Ma**, Rui Ma, Mouhacine Benosman, Xuan Zhang<br>IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), 2024.
 
   <br>
 
