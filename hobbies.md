@@ -7,7 +7,7 @@ title: Hobbies
 
 ## Stronglift Learner
 
-Personal records (actively improving!):<br> Squat (3x3) - 285lbs, Deadlift (3x3) - 295lbs, Bench Press (3x3) - 180lbs
+Personal records (actively improving!):<br> Squat (3x3) - 290lbs, Deadlift (3x3) - 300lbs, Bench Press (3x3) - 185lbs
 
 ## Insurgency Gamer
 
