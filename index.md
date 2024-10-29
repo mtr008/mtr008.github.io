@@ -4,7 +4,7 @@ layout: page
 
 Welcome to **Tianrui Ma**'s homepage!
 
-I recently passed my PhD dissertation defense in Electrical Engineering at Washington University in St. Louis (WashU), under the supervision of [Dr. Xuan 'Silvia' Zhang](https://coe.northeastern.edu/people/zhang-xuan/). I am joining Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) as an assistant professor in Fall 2024.
+I recently passed my PhD dissertation defense in Electrical Engineering at Washington University in St. Louis (WashU), under the supervision of [Dr. Xuan 'Silvia' Zhang](https://coe.northeastern.edu/people/zhang-xuan/). I am joining Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) as a Research Assistant Professor in Fall 2024.
 
 <br>
 
