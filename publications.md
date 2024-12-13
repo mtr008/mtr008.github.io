@@ -12,7 +12,7 @@ title: Publications
 
 - [Private-Eye: In-Sensor Privacy Preservation Through Optical Feature Separation]()<br>Adith Boloor, Weikai Lin, **Tianrui Ma**, Yu Feng, Yuhao Zhu, and Xuan Zhang<br>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.
 
-- \[<span style="color:red">CCF-A</span>\] [FiboCIM: A Fibonacci-Coded Charge-Domain SRAM-Based CIM Accelerator for DNN Inference]()<br>Hongrui Guo, Mo Zou, Yifan Hao, Zidong Du, Erxiang Ren, Yang Liu, Yongwei Zhao, **Tianrui Ma**, Rui Zhang, Xing Hu, Fei Qiao, Zhiwei Xu, Qi Guo, and Tianshi Chen<br>International Symposium on Microarchitecture (MICRO), 2024.
+- \[<span style="color:red">CCF-A</span>\] [Cambricon-M: A Fibonacci-Coded Charge-Domain SRAM-Based CIM Accelerator for DNN Inference](https://ieeexplore.ieee.org/abstract/document/10764712)<br>Hongrui Guo, Mo Zou, Yifan Hao, Zidong Du, Erxiang Ren, Yang Liu, Yongwei Zhao, **Tianrui Ma**, Rui Zhang, Xing Hu, Fei Qiao, Zhiwei Xu, Qi Guo, and Tianshi Chen<br>International Symposium on Microarchitecture (MICRO), 2024.
 
 - \[<span style="color:red">CCF-A</span>\] [BlissCam: Boosting Eye Tracking Efficiency with Learned In-Sensor Sparse Sampling](https://horizon-lab.org/pubs/isca24-blisscam.pdf)<br>Yu Feng\*, **Tianrui Ma\***, Yuhao Zhu, Xuan Zhang<br>International Symposium on Computer Architecture (ISCA), 2024.
 
