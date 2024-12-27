@@ -37,10 +37,15 @@ title: Publications
 
 ## Chip Gallery
 
-- LeCA Image Sensor, in TSMC 65nm GP<br>
+- LeCA Image Sensor, in TSMC 65nm GP (2024)<br>
  <img src="/images/leca.png" alt="LeCA image sensor" width="400"/>
   
 [comment]: <> (![leca](images/leca.png))
+
+- 10-bit SAR ADC, in SMIC 180nm (2019)<br>
+ <img src="/images/sar_adc.bmp" alt="SAR ADC" width="800"/>
+
+
 
   <br>
 
