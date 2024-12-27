@@ -43,7 +43,7 @@ title: Publications
 [comment]: <> (![leca](images/leca.png))
 
 - 10-bit SAR ADC, in SMIC 180nm (2019)<br>
- <img src="/images/sar_adc.bmp" alt="SAR ADC" width="800"/>
+ <img src="/images/sar_adc.png" alt="SAR ADC" width="800"/>
 
 
 
