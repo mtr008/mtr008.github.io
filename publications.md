@@ -10,6 +10,8 @@ title: Publications
 
 \*Equal contributions
 
+- \[<span style="color:red">CCF-A</span>\] [SEAL: A Single-Event Architecture for In-Sensor Visual Localization]()<br>Ryan Hou, Thomas Twomey, Vasileios Milionis, Evangelos Dikopoulos, **Tianrui Ma**, Yuhao Zhu, Georgios Tzimpragos<br>International Symposium on Computer Architecture (ISCA), 2025.
+
 - \[<span style="color:red">CCF-A</span>\] [SnapPix: Efficient-Coding--Inspired In-Sensor Compression for Edge Vision]()<br>Weikai Lin\*, **Tianrui Ma\***, Adith Boloor, Yu Feng, Ruofan Xing, Xuan Zhang, Yuhao Zhu<br>Design Automation Conference (DAC), 2025.
 
 - \[<span style="color:red">CCF-A</span>\] [DenSparSA: A Balanced Systolic Array Approach for Dense and Sparse Matrix Multiplication]()<br>Ziheng Wang, Ruiqi Sun, Xin He, **Tianrui Ma**, An Zou<br>Design Automation Conference (DAC), 2025.
