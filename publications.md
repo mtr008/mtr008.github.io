@@ -10,6 +10,8 @@ title: Publications
 
 \*Equal contributions
 
+- \[<span style="color:green">CCF-C</span>\] [LoRASensE: Learnable Low-Rank Acquisition in Sensors for Efficient Edge Machine Vision]()<br>Yiwen Liang, Zhiqiang Yi, **Tianrui Ma**, Weidong Cao<br>International Symposium on Low Power Electronics and Design (ISLPED), 2025.
+
 - \[<span style="color:red">CCF-A</span>\] [SEAL: A Single-Event Architecture for In-Sensor Visual Localization]()<br>Ryan Hou, Thomas Twomey, Vasileios Milionis, Evangelos Dikopoulos, **Tianrui Ma**, Yuhao Zhu, Georgios Tzimpragos<br>International Symposium on Computer Architecture (ISCA), 2025.
 
 - \[<span style="color:red">CCF-A</span>\] [SnapPix: Efficient-Coding--Inspired In-Sensor Compression for Edge Vision]()<br>Weikai Lin\*, **Tianrui Ma\***, Adith Boloor, Yu Feng, Ruofan Xing, Xuan Zhang, Yuhao Zhu<br>Design Automation Conference (DAC), 2025.
@@ -18,7 +20,7 @@ title: Publications
 
 - \[<span style="color:blue">CCF-B</span>\] [HARD: Hardening Real-Time Scheduling and Analysis for Accelerator Enabled Computing]()<br>Yinchen Ni, **Tianrui Ma**, Jintao Chen, Chongye Yang, Siwei Ye, Yuankai Xu, Yier Jin, An Zou<br>IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2025.
 
-- [Private-Eye: In-Sensor Privacy Preservation Through Optical Feature Separation]()<br>Adith Boloor, Weikai Lin, **Tianrui Ma**, Yu Feng, Yuhao Zhu, Xuan Zhang<br>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.
+- [Private-Eye: In-Sensor Privacy Preservation Through Optical Feature Separation](https://openaccess.thecvf.com/content/WACV2025/papers/Boloor_PrivateEye_In-Sensor_Privacy_Preservation_Through_Optical_Feature_Separation_WACV_2025_paper.pdf)<br>Adith Boloor, Weikai Lin, **Tianrui Ma**, Yu Feng, Yuhao Zhu, Xuan Zhang<br>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.
 
 - \[<span style="color:red">CCF-A</span>\] [Cambricon-M: A Fibonacci-Coded Charge-Domain SRAM-Based CIM Accelerator for DNN Inference](https://ieeexplore.ieee.org/abstract/document/10764712)<br>Hongrui Guo, Mo Zou, Yifan Hao, Zidong Du, Erxiang Ren, Yang Liu, Yongwei Zhao, **Tianrui Ma**, Rui Zhang, Xing Hu, Fei Qiao, Zhiwei Xu, Qi Guo, Tianshi Chen<br>International Symposium on Microarchitecture (MICRO), 2024.
 
