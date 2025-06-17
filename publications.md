@@ -39,6 +39,8 @@ title: Publications
 
 ## Journal Papers
 
+- \[<span style="color:red">CCF-A</span>\] [Systematic Methodology of Modeling and Design Space Exploration for CMOS Image Sensors]()<br>**Tianrui Ma**, Zhe Gao, Zhe Chen, Ramakrishna Kakarala, Charles Shan, Weidong Cao, Xuan Zhang<br>IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), 2025.
+
 - \[<span style="color:red">CCF-A</span>\] [RoSE-Opt: Robust and Efficient Analog Circuit Parameter Optimization with Knowledge-infused Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10614385)<br>Weidong Cao, Jian Gao, **Tianrui Ma**, Rui Ma, Mouhacine Benosman, Xuan Zhang<br>IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), 2024.
 
   <br>
