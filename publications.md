@@ -12,7 +12,7 @@ title: Publications
 
 - \[<span style="color:green">CCF-C</span>\] [LoRASensE: Learnable Low-Rank Acquisition in Sensors for Efficient Edge Machine Vision]()<br>Yiwen Liang, Zhiqiang Yi, **Tianrui Ma**, Weidong Cao<br>International Symposium on Low Power Electronics and Design (ISLPED), 2025.
 
-- \[<span style="color:red">CCF-A</span>\] [SEAL: A Single-Event Architecture for In-Sensor Visual Localization]()<br>Ryan Hou, Thomas Twomey, Vasileios Milionis, Evangelos Dikopoulos, **Tianrui Ma**, Yuhao Zhu, Georgios Tzimpragos<br>International Symposium on Computer Architecture (ISCA), 2025.
+- \[<span style="color:red">CCF-A</span>\] [SEAL: A Single-Event Architecture for In-Sensor Visual Localization](https://dl.acm.org/doi/full/10.1145/3695053.3731034)<br>Ryan Hou, Thomas Twomey, Vasileios Milionis, Evangelos Dikopoulos, **Tianrui Ma**, Yuhao Zhu, Georgios Tzimpragos<br>International Symposium on Computer Architecture (ISCA), 2025.
 
 - \[<span style="color:red">CCF-A</span>\] [SnapPix: Efficient-Coding--Inspired In-Sensor Compression for Edge Vision](https://arxiv.org/pdf/2504.04535)<br>Weikai Lin\*, **Tianrui Ma\***, Adith Boloor, Yu Feng, Ruofan Xing, Xuan Zhang, Yuhao Zhu<br>Design Automation Conference (DAC), 2025.
 
@@ -39,7 +39,7 @@ title: Publications
 
 ## Journal Papers
 
-- \[<span style="color:red">CCF-A</span>\] [Systematic Methodology of Modeling and Design Space Exploration for CMOS Image Sensors]()<br>**Tianrui Ma**, Zhe Gao, Zhe Chen, Ramakrishna Kakarala, Charles Shan, Weidong Cao, Xuan Zhang<br>IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), 2025.
+- \[<span style="color:red">CCF-A</span>\] [Systematic Methodology of Modeling and Design Space Exploration for CMOS Image Sensors](https://ieeexplore.ieee.org/document/11068172)<br>**Tianrui Ma**, Zhe Gao, Zhe Chen, Ramakrishna Kakarala, Charles Shan, Weidong Cao, Xuan Zhang<br>IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), 2025.
 
 - \[<span style="color:red">CCF-A</span>\] [RoSE-Opt: Robust and Efficient Analog Circuit Parameter Optimization with Knowledge-infused Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10614385)<br>Weidong Cao, Jian Gao, **Tianrui Ma**, Rui Ma, Mouhacine Benosman, Xuan Zhang<br>IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), 2024.
 
