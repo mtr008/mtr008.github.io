@@ -10,6 +10,8 @@ title: Publications
 
 \*Equal contributions
 
+- \[<span style="color:green">CCF-C</span>\] [CommILP: Synthesizing Communication Infrastructure for Domain Computing Platforms]()<br>Qucheng Jiang, Jacob Ginesin, Oscar Kellner, **Tianrui Ma**, Gunar Schirner<br>Asia and South Pacific Design Automation Conference (ASP-DAC), 2026.
+
 - \[<span style="color:green">CCF-C</span>\] [LoRASensE: Learnable Low-Rank Acquisition in Sensors for Efficient Edge Machine Vision]()<br>Yiwen Liang, Zhiqiang Yi, **Tianrui Ma**, Weidong Cao<br>International Symposium on Low Power Electronics and Design (ISLPED), 2025.
 
 - \[<span style="color:red">CCF-A</span>\] [SEAL: A Single-Event Architecture for In-Sensor Visual Localization](https://dl.acm.org/doi/full/10.1145/3695053.3731034)<br>Ryan Hou, Thomas Twomey, Vasileios Milionis, Evangelos Dikopoulos, **Tianrui Ma**, Yuhao Zhu, Georgios Tzimpragos<br>International Symposium on Computer Architecture (ISCA), 2025.
