@@ -10,6 +10,10 @@ title: Publications
 
 \*Equal contributions
 
+- \[<span style="color:red">CCF-A</span>\] [BASES: Enabling Energy-Efficient and Error-Resilient Analog CIM Acceleration via Reformation of Coding Bases]()<br>Hongrui Guo, **Tianrui Ma**, Zidong Du, Mo Zou, Yifan Hao, Yongwei Zhao, Rui Zhang, Wei Li, Xing Hu, Zhiwei Xu, Qi Guo, Tianshi Chen<br>International Symposium on High-Performance Computer Architecture (HPCA), 2026.
+
+- \[<span style="color:red">CCF-A</span>\] [Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing]()<br>Xiaotong Huang, He Zhu, **Tianrui Ma**, Yuxiang Xiong, Fangxin Liu, Zhezhi He, Yiming Gan, Zihan Liu, Jingwen Leng, Yu Feng, Minyi Guo<br>International Symposium on High-Performance Computer Architecture (HPCA), 2026.
+
 - \[<span style="color:green">CCF-C</span>\] [CommILP: Synthesizing Communication Infrastructure for Domain Computing Platforms]()<br>Qucheng Jiang, Jacob Ginesin, Oscar Kellner, **Tianrui Ma**, Gunar Schirner<br>Asia and South Pacific Design Automation Conference (ASP-DAC), 2026.
 
 - \[<span style="color:green">CCF-C</span>\] [LoRASensE: Learnable Low-Rank Acquisition in Sensors for Efficient Edge Machine Vision]()<br>Yiwen Liang, Zhiqiang Yi, **Tianrui Ma**, Weidong Cao<br>International Symposium on Low Power Electronics and Design (ISLPED), 2025.
