@@ -10,44 +10,44 @@ title: Publications
 
 \*Equal contributions
 
-- \[<span style="color:red">CCF-A</span>\] [BASES: Enabling Energy-Efficient and Error-Resilient Analog CIM Acceleration via Reformation of Coding Bases]()<br>Hongrui Guo, **Tianrui Ma**, Zidong Du, Mo Zou, Yifan Hao, Yongwei Zhao, Rui Zhang, Wei Li, Xing Hu, Zhiwei Xu, Qi Guo, Tianshi Chen<br>International Symposium on High-Performance Computer Architecture (HPCA), 2026.
+- \[<span style="color:red">HPCA</span>\] [BASES: Enabling Energy-Efficient and Error-Resilient Analog CIM Acceleration via Reformation of Coding Bases]()<br>Hongrui Guo, **Tianrui Ma**, Zidong Du, Mo Zou, Yifan Hao, Yongwei Zhao, Rui Zhang, Wei Li, Xing Hu, Zhiwei Xu, Qi Guo, Tianshi Chen<br>International Symposium on High-Performance Computer Architecture (HPCA), 2026.
 
-- \[<span style="color:red">CCF-A</span>\] [Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing]()<br>Xiaotong Huang, He Zhu, **Tianrui Ma**, Yuxiang Xiong, Fangxin Liu, Zhezhi He, Yiming Gan, Zihan Liu, Jingwen Leng, Yu Feng, Minyi Guo<br>International Symposium on High-Performance Computer Architecture (HPCA), 2026.
+- \[<span style="color:red">HPCA</span>\] [Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing](https://arxiv.org/pdf/2511.18755)<br>Xiaotong Huang, He Zhu, **Tianrui Ma**, Yuxiang Xiong, Fangxin Liu, Zhezhi He, Yiming Gan, Zihan Liu, Jingwen Leng, Yu Feng, Minyi Guo<br>International Symposium on High-Performance Computer Architecture (HPCA), 2026.
 
-- \[<span style="color:green">CCF-C</span>\] [CommILP: Synthesizing Communication Infrastructure for Domain Computing Platforms]()<br>Qucheng Jiang, Jacob Ginesin, Oscar Kellner, **Tianrui Ma**, Gunar Schirner<br>Asia and South Pacific Design Automation Conference (ASP-DAC), 2026.
+- \[<span style="color:green">ASP-DAC</span>\] [CommILP: Synthesizing Communication Infrastructure for Domain Computing Platforms]()<br>Qucheng Jiang, Jacob Ginesin, Oscar Kellner, **Tianrui Ma**, Gunar Schirner<br>Asia and South Pacific Design Automation Conference (ASP-DAC), 2026.
 
-- \[<span style="color:green">CCF-C</span>\] [LoRASensE: Learnable Low-Rank Acquisition in Sensors for Efficient Edge Machine Vision]()<br>Yiwen Liang, Zhiqiang Yi, **Tianrui Ma**, Weidong Cao<br>International Symposium on Low Power Electronics and Design (ISLPED), 2025.
+- \[<span style="color:green">ISLPED</span>\] [LoRASensE: Learnable Low-Rank Acquisition in Sensors for Efficient Edge Machine Vision]()<br>Yiwen Liang, Zhiqiang Yi, **Tianrui Ma**, Weidong Cao<br>International Symposium on Low Power Electronics and Design (ISLPED), 2025.
 
-- \[<span style="color:red">CCF-A</span>\] [SEAL: A Single-Event Architecture for In-Sensor Visual Localization](https://dl.acm.org/doi/full/10.1145/3695053.3731034)<br>Ryan Hou, Thomas Twomey, Vasileios Milionis, Evangelos Dikopoulos, **Tianrui Ma**, Yuhao Zhu, Georgios Tzimpragos<br>International Symposium on Computer Architecture (ISCA), 2025.
+- \[<span style="color:red">ISCA</span>\] [SEAL: A Single-Event Architecture for In-Sensor Visual Localization](https://dl.acm.org/doi/full/10.1145/3695053.3731034)<br>Ryan Hou, Thomas Twomey, Vasileios Milionis, Evangelos Dikopoulos, **Tianrui Ma**, Yuhao Zhu, Georgios Tzimpragos<br>International Symposium on Computer Architecture (ISCA), 2025.
 
-- \[<span style="color:red">CCF-A</span>\] [SnapPix: Efficient-Coding--Inspired In-Sensor Compression for Edge Vision](https://arxiv.org/pdf/2504.04535)<br>Weikai Lin\*, **Tianrui Ma\***, Adith Boloor, Yu Feng, Ruofan Xing, Xuan Zhang, Yuhao Zhu<br>Design Automation Conference (DAC), 2025.
+- \[<span style="color:red">DAC</span>\] [SnapPix: Efficient-Coding--Inspired In-Sensor Compression for Edge Vision](https://arxiv.org/pdf/2504.04535)<br>Weikai Lin\*, **Tianrui Ma\***, Adith Boloor, Yu Feng, Ruofan Xing, Xuan Zhang, Yuhao Zhu<br>Design Automation Conference (DAC), 2025.
 
-- \[<span style="color:red">CCF-A</span>\] [DenSparSA: A Balanced Systolic Array Approach for Dense and Sparse Matrix Multiplication]()<br>Ziheng Wang, Ruiqi Sun, Xin He, **Tianrui Ma**, An Zou<br>Design Automation Conference (DAC), 2025.
+- \[<span style="color:red">DAC</span>\] [DenSparSA: A Balanced Systolic Array Approach for Dense and Sparse Matrix Multiplication]()<br>Ziheng Wang, Ruiqi Sun, Xin He, **Tianrui Ma**, An Zou<br>Design Automation Conference (DAC), 2025.
 
-- \[<span style="color:blue">CCF-B</span>\] [HARD: Hardening Real-Time Scheduling and Analysis for Accelerator Enabled Computing](https://ieeexplore.ieee.org/abstract/document/11018775)<br>Yinchen Ni, **Tianrui Ma**, Jintao Chen, Chongye Yang, Siwei Ye, Yuankai Xu, Yier Jin, An Zou<br>IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2025.
+- \[<span style="color:blue">RTAS</span>\] [HARD: Hardening Real-Time Scheduling and Analysis for Accelerator Enabled Computing](https://ieeexplore.ieee.org/abstract/document/11018775)<br>Yinchen Ni, **Tianrui Ma**, Jintao Chen, Chongye Yang, Siwei Ye, Yuankai Xu, Yier Jin, An Zou<br>IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2025.
 
 - [Private-Eye: In-Sensor Privacy Preservation Through Optical Feature Separation](https://openaccess.thecvf.com/content/WACV2025/papers/Boloor_PrivateEye_In-Sensor_Privacy_Preservation_Through_Optical_Feature_Separation_WACV_2025_paper.pdf)<br>Adith Boloor, Weikai Lin, **Tianrui Ma**, Yu Feng, Yuhao Zhu, Xuan Zhang<br>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.
 
-- \[<span style="color:red">CCF-A</span>\] [Cambricon-M: A Fibonacci-Coded Charge-Domain SRAM-Based CIM Accelerator for DNN Inference](https://ieeexplore.ieee.org/abstract/document/10764712)<br>Hongrui Guo, Mo Zou, Yifan Hao, Zidong Du, Erxiang Ren, Yang Liu, Yongwei Zhao, **Tianrui Ma**, Rui Zhang, Xing Hu, Fei Qiao, Zhiwei Xu, Qi Guo, Tianshi Chen<br>International Symposium on Microarchitecture (MICRO), 2024.
+- \[<span style="color:red">MICRO</span>\] [Cambricon-M: A Fibonacci-Coded Charge-Domain SRAM-Based CIM Accelerator for DNN Inference](https://ieeexplore.ieee.org/abstract/document/10764712)<br>Hongrui Guo, Mo Zou, Yifan Hao, Zidong Du, Erxiang Ren, Yang Liu, Yongwei Zhao, **Tianrui Ma**, Rui Zhang, Xing Hu, Fei Qiao, Zhiwei Xu, Qi Guo, Tianshi Chen<br>International Symposium on Microarchitecture (MICRO), 2024.
 
-- \[<span style="color:red">CCF-A</span>\] [BlissCam: Boosting Eye Tracking Efficiency with Learned In-Sensor Sparse Sampling](https://horizon-lab.org/pubs/isca24-blisscam.pdf)<br>Yu Feng\*, **Tianrui Ma\***, Yuhao Zhu, Xuan Zhang<br>International Symposium on Computer Architecture (ISCA), 2024.
+- \[<span style="color:red">ISCA</span>\] [BlissCam: Boosting Eye Tracking Efficiency with Learned In-Sensor Sparse Sampling](https://horizon-lab.org/pubs/isca24-blisscam.pdf)<br>Yu Feng\*, **Tianrui Ma\***, Yuhao Zhu, Xuan Zhang<br>International Symposium on Computer Architecture (ISCA), 2024.
 
-- \[<span style="color:blue">CCF-B</span>\] [Learned In-Sensor Visual Computing: From Compression to Eventification](https://horizon-lab.org/pubs/iccad23.pdf)<br>Yu Feng, **Tianrui Ma**, Adith Boloor, Yuhao Zhu, Xuan Zhang<br>International Conference on Computer-Aided Design (ICCAD), 2023. <span style="color:blue">**Invited Paper**</span>
+- \[<span style="color:blue">ICCAD</span>\] [Learned In-Sensor Visual Computing: From Compression to Eventification](https://horizon-lab.org/pubs/iccad23.pdf)<br>Yu Feng, **Tianrui Ma**, Adith Boloor, Yuhao Zhu, Xuan Zhang<br>International Conference on Computer-Aided Design (ICCAD), 2023. <span style="color:blue">**Invited Paper**</span>
 
-- \[<span style="color:red">CCF-A</span>\] [CamJ: Enabling System-Level Energy Modeling and Architectural Exploration for In-Sensor Visual Computing](https://dl.acm.org/doi/abs/10.1145/3579371.3589064)<br>**Tianrui Ma\***, Yu Feng\*, Xuan Zhang, Yuhao Zhu<br>International Symposium on Computer Architecture (ISCA), 2023.
+- \[<span style="color:red">ISCA</span>\] [CamJ: Enabling System-Level Energy Modeling and Architectural Exploration for In-Sensor Visual Computing](https://dl.acm.org/doi/abs/10.1145/3579371.3589064)<br>**Tianrui Ma\***, Yu Feng\*, Xuan Zhang, Yuhao Zhu<br>International Symposium on Computer Architecture (ISCA), 2023.
 
-- \[<span style="color:red">CCF-A</span>\] [LeCA: In-Sensor Learned Compressive Acquisition for Efficient Machine Vision on the Edge](https://dl.acm.org/doi/10.1145/3579371.3589089)<br>**Tianrui Ma\***, Adith Boloor\*, Xiangxing Yang, Weidong Cao, Patrick Williams, Nan Sun, Ayan Chakrabarti, Xuan Zhang<br>International Symposium on Computer Architecture (ISCA), 2023.
+- \[<span style="color:red">ISCA</span>\] [LeCA: In-Sensor Learned Compressive Acquisition for Efficient Machine Vision on the Edge](https://dl.acm.org/doi/10.1145/3579371.3589089)<br>**Tianrui Ma\***, Adith Boloor\*, Xiangxing Yang, Weidong Cao, Patrick Williams, Nan Sun, Ayan Chakrabarti, Xuan Zhang<br>International Symposium on Computer Architecture (ISCA), 2023.
 
-- \[<span style="color:green">CCF-C</span>\] [HOGEye: Neural Approximation of HOG Feature Extraction in RRAM-Based 3D-Stacked Image Sensors](https://dl.acm.org/doi/10.1145/3531437.3539706)<br>**Tianrui Ma**, Weidong Cao, Fei Qiao, Ayan Chakrabarti, Xuan Zhang<br>International Symposium on Low Power Electronics and Design (ISLPED), 2022. <span style="color:red">**Best Paper Award**</span>
+- \[<span style="color:green">ISLPED</span>\] [HOGEye: Neural Approximation of HOG Feature Extraction in RRAM-Based 3D-Stacked Image Sensors](https://dl.acm.org/doi/10.1145/3531437.3539706)<br>**Tianrui Ma**, Weidong Cao, Fei Qiao, Ayan Chakrabarti, Xuan Zhang<br>International Symposium on Low Power Electronics and Design (ISLPED), 2022. <span style="color:red">**Best Paper Award**</span>
 
 - [An Analog-Memoryless Near Sensor Computing Architecture for Always-On Intelligent Perception Applications](https://ieeexplore.ieee.org/abstract/document/9012906)<br>**Tianrui Ma**, Kaige Jia, Xin Zhu, Fei Qiao, Qi Wei, Huichan Zhao, Xinjun Liu, Huazhong Yang<br>International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2019.
 
 
 ## Journal Papers
 
-- \[<span style="color:red">CCF-A</span>\] [Systematic Methodology of Modeling and Design Space Exploration for CMOS Image Sensors](https://ieeexplore.ieee.org/document/11068172)<br>**Tianrui Ma**, Zhe Gao, Zhe Chen, Ramakrishna Kakarala, Charles Shan, Weidong Cao, Xuan Zhang<br>IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), 2025.
+- \[<span style="color:red">TCAD</span>\] [Systematic Methodology of Modeling and Design Space Exploration for CMOS Image Sensors](https://ieeexplore.ieee.org/document/11068172)<br>**Tianrui Ma**, Zhe Gao, Zhe Chen, Ramakrishna Kakarala, Charles Shan, Weidong Cao, Xuan Zhang<br>IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), 2025.
 
-- \[<span style="color:red">CCF-A</span>\] [RoSE-Opt: Robust and Efficient Analog Circuit Parameter Optimization with Knowledge-infused Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10614385)<br>Weidong Cao, Jian Gao, **Tianrui Ma**, Rui Ma, Mouhacine Benosman, Xuan Zhang<br>IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), 2024.
+- \[<span style="color:red">TCAD</span>\] [RoSE-Opt: Robust and Efficient Analog Circuit Parameter Optimization with Knowledge-infused Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10614385)<br>Weidong Cao, Jian Gao, **Tianrui Ma**, Rui Ma, Mouhacine Benosman, Xuan Zhang<br>IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), 2024.
 
   <br>
 
