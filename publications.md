@@ -10,6 +10,34 @@ title: Publications
 
 \*Equal contributions
 
+- \[<span style="color:red">ASPLOS</span>\] [Hardwired-Neuron Language Processing Units as General-Purpose Cognitive Substrates]()<br>Yang Liu,
+Yi Chen,
+Yongwei Zhao,
+Yifan Hao,
+Zifu Zheng,
+Weihao Kong,
+Zhangmai Li,
+Dongchen Jiang,
+Ruiyang Xia,
+Zhihong Ma,
+Zisheng Liu,
+Zhaoyong Wan,
+Yunqi Lu,
+Ximing Liu,
+Hongrui Guo,
+Zhihao Yang,
+Zhe Wang,
+**Tianrui Ma**,
+Mo Zou,
+Rui Zhang,
+Ling Li,
+Xing Hu,
+Zidong Du,
+Zhiwei Xu,
+Qi Guo,
+Tiashi Chen,
+Yunji Chen<br>International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026.
+
 - \[<span style="color:red">HPCA</span>\] [BASES: Enabling Energy-Efficient and Error-Resilient Analog CIM Acceleration via Reformation of Coding Bases]()<br>Hongrui Guo, **Tianrui Ma**, Zidong Du, Mo Zou, Yifan Hao, Yongwei Zhao, Rui Zhang, Wei Li, Xing Hu, Zhiwei Xu, Qi Guo, Tianshi Chen<br>International Symposium on High-Performance Computer Architecture (HPCA), 2026.
 
 - \[<span style="color:red">HPCA</span>\] [Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing](https://arxiv.org/pdf/2511.18755)<br>Xiaotong Huang, He Zhu, **Tianrui Ma**, Yuxiang Xiong, Fangxin Liu, Zhezhi He, Yiming Gan, Zihan Liu, Jingwen Leng, Yu Feng, Minyi Guo<br>International Symposium on High-Performance Computer Architecture (HPCA), 2026.
