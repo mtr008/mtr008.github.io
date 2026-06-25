@@ -10,7 +10,7 @@ title: Publications
 
 \*Equal contributions
 
-- \[<span style="color:red">ASPLOS</span>\] [Hardwired-Neuron Language Processing Units as General-Purpose Cognitive Substrates]()<br>Yang Liu,
+- \[<span style="color:red">ASPLOS</span>\] [Hardwired-Neuron Language Processing Units as General-Purpose Cognitive Substrates](https://dl.acm.org/doi/pdf/10.1145/3779212.3790169)<br>Yang Liu,
 Yi Chen,
 Yongwei Zhao,
 Yifan Hao,
@@ -35,22 +35,22 @@ Xing Hu,
 Zidong Du,
 Zhiwei Xu,
 Qi Guo,
-Tiashi Chen,
+Tianshi Chen,
 Yunji Chen<br>International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026.
 
-- \[<span style="color:red">HPCA</span>\] [BASES: Enabling Energy-Efficient and Error-Resilient Analog CIM Acceleration via Reformation of Coding Bases]()<br>Hongrui Guo, **Tianrui Ma**, Zidong Du, Mo Zou, Yifan Hao, Yongwei Zhao, Rui Zhang, Wei Li, Xing Hu, Zhiwei Xu, Qi Guo, Tianshi Chen<br>International Symposium on High-Performance Computer Architecture (HPCA), 2026.
+- \[<span style="color:red">HPCA</span>\] [Cambricon-CIM: Enabling Energy-Efficient and Error-Resilient Analog CIM Acceleration via Reformation of Coding Bases](https://ieeexplore.ieee.org/abstract/document/11408520)<br>Hongrui Guo, **Tianrui Ma**, Zidong Du, Mo Zou, Yifan Hao, Yongwei Zhao, Rui Zhang, Wei Li, Xing Hu, Zhiwei Xu, Qi Guo, Tianshi Chen<br>International Symposium on High-Performance Computer Architecture (HPCA), 2026.
 
 - \[<span style="color:red">HPCA</span>\] [Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing](https://arxiv.org/pdf/2511.18755)<br>Xiaotong Huang, He Zhu, **Tianrui Ma**, Yuxiang Xiong, Fangxin Liu, Zhezhi He, Yiming Gan, Zihan Liu, Jingwen Leng, Yu Feng, Minyi Guo<br>International Symposium on High-Performance Computer Architecture (HPCA), 2026.
 
-- \[<span style="color:green">ASP-DAC</span>\] [CommILP: Synthesizing Communication Infrastructure for Domain Computing Platforms]()<br>Qucheng Jiang, Jacob Ginesin, Oscar Kellner, **Tianrui Ma**, Gunar Schirner<br>Asia and South Pacific Design Automation Conference (ASP-DAC), 2026.
+- \[<span style="color:green">ASP-DAC</span>\] [CommILP: Synthesizing Communication Infrastructure for Domain Computing Platforms](https://ieeexplore.ieee.org/abstract/document/11420431)<br>Qucheng Jiang, Jacob Ginesin, Oscar Kellner, **Tianrui Ma**, Gunar Schirner<br>Asia and South Pacific Design Automation Conference (ASP-DAC), 2026.
 
-- \[<span style="color:green">ISLPED</span>\] [LoRASensE: Learnable Low-Rank Acquisition in Sensors for Efficient Edge Machine Vision]()<br>Yiwen Liang, Zhiqiang Yi, **Tianrui Ma**, Weidong Cao<br>International Symposium on Low Power Electronics and Design (ISLPED), 2025.
+- \[<span style="color:green">ISLPED</span>\] [LoRASensE: Learnable Low-Rank Acquisition in Sensors for Efficient Edge Machine Vision](https://ieeexplore.ieee.org/abstract/document/11261700)<br>Yiwen Liang, Zhiqiang Yi, **Tianrui Ma**, Weidong Cao<br>International Symposium on Low Power Electronics and Design (ISLPED), 2025.
 
 - \[<span style="color:red">ISCA</span>\] [SEAL: A Single-Event Architecture for In-Sensor Visual Localization](https://dl.acm.org/doi/full/10.1145/3695053.3731034)<br>Ryan Hou, Thomas Twomey, Vasileios Milionis, Evangelos Dikopoulos, **Tianrui Ma**, Yuhao Zhu, Georgios Tzimpragos<br>International Symposium on Computer Architecture (ISCA), 2025.
 
 - \[<span style="color:red">DAC</span>\] [SnapPix: Efficient-Coding--Inspired In-Sensor Compression for Edge Vision](https://arxiv.org/pdf/2504.04535)<br>Weikai Lin\*, **Tianrui Ma\***, Adith Boloor, Yu Feng, Ruofan Xing, Xuan Zhang, Yuhao Zhu<br>Design Automation Conference (DAC), 2025.
 
-- \[<span style="color:red">DAC</span>\] [DenSparSA: A Balanced Systolic Array Approach for Dense and Sparse Matrix Multiplication]()<br>Ziheng Wang, Ruiqi Sun, Xin He, **Tianrui Ma**, An Zou<br>Design Automation Conference (DAC), 2025.
+- \[<span style="color:red">DAC</span>\] [DenSparSA: A Balanced Systolic Array Approach for Dense and Sparse Matrix Multiplication](https://ieeexplore.ieee.org/abstract/document/11133069)<br>Ziheng Wang, Ruiqi Sun, Xin He, **Tianrui Ma**, An Zou<br>Design Automation Conference (DAC), 2025.
 
 - \[<span style="color:blue">RTAS</span>\] [HARD: Hardening Real-Time Scheduling and Analysis for Accelerator Enabled Computing](https://ieeexplore.ieee.org/abstract/document/11018775)<br>Yinchen Ni, **Tianrui Ma**, Jintao Chen, Chongye Yang, Siwei Ye, Yuankai Xu, Yier Jin, An Zou<br>IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2025.
 
@@ -72,6 +72,9 @@ Yunji Chen<br>International Conference on Architectural Support for Programming 
 
 
 ## Journal Papers
+
+- \[<span style="color:red">TCAD</span>\] [A Systolic Random Increment Memory Architecture for Unary Computing](https://ieeexplore.ieee.org/abstract/document/11535127)<br>Hongrui Guo, Yongwei Zhao, Zhangmai Li, Yifan Hao, **Tianrui Ma**, Mo Zou, Chang Liu, Xinkai Song, Xiaqing Li, Zidong Du, Rui Zhang, Qi Guo, Zhiwei Xu, Tianshi Chen<br>IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), 2026.
+
 
 - \[<span style="color:red">TCAD</span>\] [Systematic Methodology of Modeling and Design Space Exploration for CMOS Image Sensors](https://ieeexplore.ieee.org/document/11068172)<br>**Tianrui Ma**, Zhe Gao, Zhe Chen, Ramakrishna Kakarala, Charles Shan, Weidong Cao, Xuan Zhang<br>IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), 2025.
 
